@@ -1,4 +1,4 @@
-// week07-1.cpp 算2個長方形交集的面積
+// week07-1.cpp 算2個長方形交集的面積 
 // TAICA 交大基礎程式設計(C++) 期中考題 第2題
 #include <iostream>
 using namespace std;

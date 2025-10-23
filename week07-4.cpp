@@ -1,6 +1,6 @@
 // week07-4.cpp 學習計畫 Simulation 模擬 第4題
 // 1041. Robot Bounded In Circle
-class Solution {
+class Solution { 
 public:
     bool isRobotBounded(string instructions) {
         instructions = instructions + instructions + instructions + instructions; // 走4次
